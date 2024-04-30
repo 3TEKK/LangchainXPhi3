@@ -1,0 +1,20 @@
+{
+  "name": "langchain-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.0.53",
+    "@langchain/core": "^0.1.61",
+    "@langchain/openai": "^0.0.28",
+    "@supabase/supabase-js": "^2.42.7",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2"
+  }
+}
